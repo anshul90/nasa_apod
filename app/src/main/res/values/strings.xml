@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NASA Apod</string>
+
+    <string name="empty_list_message">Sorry, there is no data.</string>
+
+    <string name="main_fragment_title">Picture of the Day</string>
+    <string name="error_event">Error occurred: %s</string>
+    <string name="unknown_error">Unknown</string>
+    <string name="menu_reload">Reload</string>
+    <string name="favs">Favorites</string>
+    <string name="search_image">Search Picture of the day</string>
+    <string name="add_favorites">Add to favorites</string>
+    <string name="added_favorites">Added to favorites</string>
+    <string name="your_favorites">Your favorites</string>
+</resources>

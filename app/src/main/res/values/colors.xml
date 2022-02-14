@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black_alpha">#59000000</color>
+    <color name="bluePrimary">#145996</color>
+    <color name="detailsTextColor">#000000</color>
+    <color name="details_divider_color">#aaa</color>
+    <color name="darkModePrimary">#4589FF</color>
+</resources>
