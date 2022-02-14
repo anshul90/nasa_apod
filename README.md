@@ -8,3 +8,5 @@
 * Supports both portrait and landscape orientation
 
 Note: Differentiated the part if there is a video instead of image but din't complete the Video playing part. 
+
+![ezgif-2-cbf6aec168](https://user-images.githubusercontent.com/4475866/153844844-a3fe765a-4288-465b-b80d-d8b665729dfc.gif)
